@@ -40,7 +40,7 @@
       "area": "Python Backend Developer",
       "institution": "Reaktor PWN",
       "courses": [
-        "Technologies: Django, Selenium, REST API, MySQL, Python, GIT, HTML, CSS, JS"
+        "Technologies: HTML, CSS, JS, Python, Django, Selenium, REST API, MySQL, GIT"
       ]
     }
   ],
@@ -117,16 +117,14 @@
     },
     {
       "summary": "Working in web projects (Python/Django, React), prototyping solutions – functional and visual, software verification - manual and automated testing, scripting(Python), creating websites for external and internal needs.",
-      "website": "https://giap.pl/",
-      "company": "GIAP (Gospodarczy Instytut Analiz Przestrzennych)",
+      "company": "GIAP",
       "position": "Software Tester",
       "startDate": "2019-01-01",
       "endDate": "2019-04-01"
     },
     {
       "summary": "Implementations and training on IT projects, managing databases - data import/export.",
-      "website": "https://giap.pl/",
-      "company": "GIAP (Gospodarczy Instytut Analiz Przestrzennych)",
+      "company": "GIAP",
       "position": "Assistant IT Project Manager/ GIS Expert",
       "startDate": "2017-02-01",
       "endDate": "2019-01-01"
