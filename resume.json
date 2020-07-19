@@ -3,7 +3,7 @@
     "name": "Witold Oszkiel",
     "label": "Full Stack Developer",
     "image": "https://raw.githubusercontent.com/witekosz/resume_repo/master/assets/profile_photo.png",
-    "website": "",
+    "summary": "I’m a full stack web developer who can build apps from the ground up. In the free time developing my own apps that I hope one day will change the real estate industry. Besides technical I have many soft skills, therefore I have a wide view of daily challenges and problems.",
     "email": "witold.oszkiel@gmail.com",
     "phone": "575997497",
     "location": {
@@ -23,7 +23,136 @@
       }
     ]
   },
-  "meta": {
-    "theme": "elegant"
-  }
+  "education": [
+    {
+      "endDate": "2017-01-01",
+      "startDate": "2014-01-01",
+      "area": "Urban Planning",
+      "studyType": "BSc",
+      "institution": "Warsaw University of Life Sciences",
+      "courses": [
+        "InfoShareAcademy - Django building web apps with spatial data sources"
+      ]
+    },
+    {
+      "endDate": "2019-01-01",
+      "startDate": "2018-01-01",
+      "area": "Python Backend Developer",
+      "institution": "Reaktor PWN",
+      "courses": [
+        "Technologies: Django, Selenium, REST API, MySQL, Python, GIT, HTML, CSS, JS"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "CSS / Sass",
+        "Javascript / Typescript",
+        "Vue",
+        "Vuex",
+        "Vuetify / Quasar / Bulma",
+        "Jest"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "Node",
+        "Python",
+        "Django",
+        "Django Rest Framework",
+        "Flask",
+        "SQL",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "name": "Backend"
+    },
+    {
+      "keywords": [
+        "microservices",
+        "AWS",
+        "Traefik",
+        "bash",
+        "Docker",
+        "Docker Compose",
+        "GitLab CI"
+      ],
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+        "PostGIS",
+        "QGIS",
+        "ArcGIS",
+        "Leaflet",
+        "OpenLayers",
+        "Geoserver",
+        "Open Street Map"
+      ],
+      "name": "GIS"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Developing microservices in Python(Flask)",
+        "Developing SPA apps in vue.js"
+      ],
+      "summary": "Working for one of biggest media houses in Poland.",
+      "website": "https://www.grupazpr.pl/",
+      "company": "Grupa ZPR",
+      "position": "Full Stack Developer",
+      "startDate": "2020-01-01"
+    },
+    {
+      "summary": "Working in web development projects with Python/Django/Flask, React stack.",
+      "website": "https://giap.pl/",
+      "company": "GIAP (Gospodarczy Instytut Analiz Przestrzennych)",
+      "position": "Python Developer",
+      "startDate": "2019-05-01",
+      "endDate": "2019-12-01"
+    },
+    {
+      "summary": "Working in web projects (Python/Django, React), prototyping solutions – functional and visual, software verification - manual and automated testing, scripting(Python), creating websites for external and internal needs.",
+      "website": "https://giap.pl/",
+      "company": "GIAP (Gospodarczy Instytut Analiz Przestrzennych)",
+      "position": "Software Tester",
+      "startDate": "2019-01-01",
+      "endDate": "2019-04-01"
+    },
+    {
+      "summary": "Implementations and training on IT projects, managing databases - data import/export.",
+      "website": "https://giap.pl/",
+      "company": "GIAP (Gospodarczy Instytut Analiz Przestrzennych)",
+      "position": "Assistant IT Project Manager/ GIS Expert",
+      "startDate": "2017-02-01",
+      "endDate": "2019-01-01"
+    },
+    {
+      "company": "Geodesic company PHU MAXI",
+      "position": "GIS Expert",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01"
+    },
+    {
+      "website": "https://www.housestandard.pl/",
+      "company": "Real Estate House Standard",
+      "position": "Real Estate Agent/ Team Leader",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Polish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ]
 }
