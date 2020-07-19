@@ -1,4 +1,26 @@
 {
-  "name": "Witold",
-  "surname": "Oszkiel"
+  "basics": {
+    "name": "Witold Oszkiel",
+    "label": "Full Stack Developer",
+    "image": "",
+    "website": "",
+    "email": "witold.oszkiel@gmail.com",
+    "phone": "575997497",
+    "location": {
+      "city": "Warsaw",
+      "countryCode": "PL"
+    }
+  },
+  "profiles": [
+    {
+      "username": "witold-oszkiel",
+      "url": "https://www.linkedin.com/in/witold-oszkiel/",
+      "network": "linkedin"
+    },
+    {
+      "url": "https://github.com/witekosz",
+      "username": "witekosz",
+      "network": "github"
+    }
+  ]
 }
