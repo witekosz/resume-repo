@@ -13,11 +13,10 @@ for theme in ${THEMES[*]}
 do
    echo "$theme"
    resume export "$HTML_DIR/resume-$theme.html" --theme $theme
-   resume export "$PDF_DIR/resume-$theme.pdf" --theme $theme
    echo ""
 done
 
-# Generate and replace macchiato pdf
+# Generate macchiato pdf
 # https://www.npmjs.com/package/jsonresume-theme-macchiato
 puppeteer --margin-top 0 --margin-right 0 --margin-bottom 0 --margin-left 0 --format A4 \
     print "$HTML_DIR/resume-macchiato.html" "$PDF_DIR/resume-macchiato.pdf"
