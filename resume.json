@@ -47,11 +47,9 @@
   "skills": [
     {
       "keywords": [
-        "HTML / JSX",
-        "CSS / Sass",
+        "HTML / CSS / Sass",
         "Javascript / Typescript",
-        "Vue",
-        "Vuex",
+        "Vue / Vuex",
         "Vuetify / Quasar / Bulma",
         "Jest"
       ],
@@ -59,14 +57,11 @@
     },
     {
       "keywords": [
-        "Node",
         "Python",
-        "Django",
-        "Django Rest Framework",
+        "Django / Django Rest Framework",
+        "FastAPI",
         "Flask",
-        "SQL",
-        "PostgreSQL",
-        "MySQL"
+        "SQL / PostgreSQL / MySQL"
       ],
       "name": "Backend"
     },
@@ -98,8 +93,8 @@
   "work": [
     {
       "highlights": [
-        "Developing microservices in Python(Flask)",
-        "Developing SPA apps in vue.js"
+        "Developing microservices in Python(Flask, Django)",
+        "Developing SPA apps in Vue.js"
       ],
       "summary": "Working for one of biggest media houses in Poland.",
       "website": "https://www.grupazpr.pl/",
