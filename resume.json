@@ -4,7 +4,7 @@
     "label": "Full Stack Developer",
     "image": "https://raw.githubusercontent.com/witekosz/resume_repo/master/assets/profile_photo.png",
     "summary": "I’m a full stack web developer who can build apps from the ground up. In the free time developing my own apps that I hope one day will change the real estate industry. Besides technical I have many soft skills, therefore I have a wide view of daily challenges and problems.",
-    "email": "witold.oszkiel@gmail.com",
+    "email": "witekosz@gmail.com",
     "phone": "575997497",
     "location": {
       "city": "Warsaw",
@@ -58,6 +58,7 @@
     {
       "keywords": [
         "Python",
+        "TTD",
         "Django / Django Rest Framework",
         "FastAPI",
         "Flask",
@@ -68,7 +69,9 @@
     {
       "keywords": [
         "microservices",
+        "serverless",
         "AWS",
+        "GCP",
         "Traefik",
         "bash",
         "Docker",
@@ -93,6 +96,19 @@
   "work": [
     {
       "highlights": [
+        "Developing microservices in Python(Flask) on GCP(Storage, Datastore, App Engine Standard and Flex, Run, Tasks)",
+        "Migrating legacy Python 2 apps to Python 3",
+        "Optimizing cloud costs",
+        "Maitianing backend for heavy load apps eg. Empik Go, one of biggest polish sreaming service"
+      ],
+      "summary": "Working for biggest digital content(audiobooks and ebooks) distibutor in Poland.",
+      "website": "https://virtualo.eu",
+      "company": "Virtualo(Empik Group)",
+      "position": "Python Developer",
+      "startDate": "2021-04-01"
+    },
+    {
+      "highlights": [
         "Developing microservices in Python(Flask, Django)",
         "Developing SPA apps in Vue.js"
       ],
@@ -100,7 +116,8 @@
       "website": "https://www.grupazpr.pl/",
       "company": "Grupa ZPR",
       "position": "Full Stack Developer",
-      "startDate": "2020-01-01"
+      "startDate": "2020-01-01",
+      "endDate": "2021-03-01"
     },
     {
       "summary": "Working in web development projects with Python/Django/Flask, React stack.",
@@ -123,19 +140,6 @@
       "position": "Assistant IT Project Manager/ GIS Expert",
       "startDate": "2017-02-01",
       "endDate": "2019-01-01"
-    },
-    {
-      "company": "Geodesic company PHU MAXI",
-      "position": "GIS Expert",
-      "startDate": "2018-01-01",
-      "endDate": "2019-01-01"
-    },
-    {
-      "website": "https://www.housestandard.pl/",
-      "company": "Real Estate House Standard",
-      "position": "Real Estate Agent/ Team Leader",
-      "startDate": "2016-01-01",
-      "endDate": "2017-01-01"
     }
   ],
   "languages": [
