@@ -96,10 +96,10 @@
   "work": [
     {
       "highlights": [
-        "Developing microservices in Python(Flask) on GCP(Storage, Datastore, App Engine Standard and Flex, Run, Tasks)",
+        "Developing microservices in Python(Flask) on GCP(Storage, Datastore, App Engine, Run, Tasks)",
+        "Maitianing backend for heavy load apps eg. Empik Go, one of biggest polish sreaming service",
         "Migrating legacy Python 2 apps to Python 3",
-        "Optimizing cloud costs",
-        "Maitianing backend for heavy load apps eg. Empik Go, one of biggest polish sreaming service"
+        "Optimizing cloud costs"
       ],
       "summary": "Working for biggest digital content(audiobooks and ebooks) distibutor in Poland.",
       "website": "https://virtualo.eu",
@@ -137,8 +137,8 @@
     {
       "summary": "Implementations and training on IT projects, managing databases - data import/export.",
       "company": "GIAP",
-      "position": "Assistant IT Project Manager/ GIS Expert",
-      "startDate": "2017-02-01",
+      "position": "Assistant IT Project Manager / GIS Expert",
+      "startDate": "2018-02-01",
       "endDate": "2019-01-01"
     }
   ],
