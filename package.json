@@ -1,10 +1,17 @@
 {
   "name": "resume_repo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "---",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "html-mac": "npx resumed render resume.json -o html/resume-macchiato.html -t jsonresume-theme-macchiato",
+    "pdf-mac": "npx resumed export resume.json -o pdf/resume-macchiato.pdf -t jsonresume-theme-macchiato",
+    "html-eve": "npx resumed export resume.json -o html/resume-even.html -t jsonresume-theme-even",
+    "pdf-eve": "npx resumed export resume.json -o pdf/resume-even.pdf -t jsonresume-theme-even",
+    "html-spa": "npx resumed export resume.json -o html/resume-spartan.html -t jsonresume-theme-spartan",
+    "pdf-spa": "npx resumed export resume.json -o pdf/resume-spartan.pdf -t jsonresume-theme-spartan",
+    "html-sta": "npx resumed export resume.json -o html/resume-stackoverflow.html -t jsonresume-theme-stackoverflow",
+    "pdf-sta": "npx resumed export resume.json -o pdf/resume-stackoverflow.pdf -t jsonresume-theme-stackoverflow"
   },
   "repository": {
     "type": "git",
@@ -17,12 +24,11 @@
   },
   "homepage": "https://github.com/witekosz/resume_repo#readme",
   "devDependencies": {
+    "jsonresume-theme-even": "^0.26.0",
     "jsonresume-theme-macchiato": "^1.1.0",
-    "jsonresume-theme-onepage": "0.0.3",
     "jsonresume-theme-spartan": "^0.3.0",
     "jsonresume-theme-stackoverflow": "^1.4.0",
-    "puppeteer-cli": "^1.5.1",
-    "resume-cli": "^3.0.4"
-  },
-  "dependencies": {}
+    "puppeteer": "^24.18.0",
+    "resumed": "^6.0.0"
+  }
 }

@@ -2,7 +2,7 @@
 
 # TODO Move generating to local package script
 
-THEMES=(macchiato onepage spartan stackoverflow)
+THEMES=(macchiato spartan stackoverflow even)
 HTML_DIR=html
 PDF_DIR=pdf
 

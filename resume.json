@@ -3,9 +3,9 @@
     "name": "Witold Oszkiel",
     "label": "Full Stack Developer",
     "image": "https://raw.githubusercontent.com/witekosz/resume_repo/master/assets/profile_photo.png",
-    "summary": "I’m a full stack web developer who can build apps from the ground up. In the free time developing my own apps that I hope one day will change the real estate industry. Besides technical I have many soft skills, therefore I have a wide view of daily challenges and problems.",
+    "summary": "I am a full stack web developer who can build apps from the ground up. Besides technical I have many soft skills, therefore I have a wide view of daily challenges and problems.",
     "email": "witekosz@gmail.com",
-    "phone": "575997497",
+    "phone": "+48 575 997 497",
     "location": {
       "city": "Warsaw",
       "countryCode": "PL"
@@ -40,17 +40,16 @@
       "area": "Python Backend Developer",
       "institution": "Reaktor PWN",
       "courses": [
-        "Technologies: HTML, CSS, JS, Python, Django, Selenium, REST API, MySQL, GIT"
+        "Technologies: HTML, CSS, JS, Python, Django, Selenium, REST API, MySQL"
       ]
     }
   ],
   "skills": [
     {
       "keywords": [
-        "HTML / CSS / Sass",
         "Javascript / Typescript",
-        "Vue / Vuex",
-        "Vuetify / Quasar / Bulma",
+        "Vue.js",
+        "React",
         "Jest"
       ],
       "name": "Frontend"
@@ -96,16 +95,31 @@
   "work": [
     {
       "highlights": [
+        "Developing system to compute large amount of data(Python engine, FastAPI, React)",
+        "Migrating older frameworks to React and FastAPI",
+        "Optimizing engine calculation time and memory",
+        "Onboarding new team members"
+      ],
+      "summary": "Software engineer at NatWest Group, one of the biggest UK banks.",
+      "website": "https://www.natwestgroup.com",
+      "company": "NatWest Group",
+      "position": "Software Engineer",
+      "startDate": "2022-04-01",
+      "endDate": "2025-10-01"
+    },
+    {
+      "highlights": [
         "Developing microservices in Python(Flask) on GCP(Storage, Datastore, App Engine, Run, Tasks)",
         "Maitianing backend for heavy load apps eg. Empik Go, one of biggest polish sreaming service",
         "Migrating legacy Python 2 apps to Python 3",
         "Optimizing cloud costs"
       ],
       "summary": "Working for biggest digital content(audiobooks and ebooks) distibutor in Poland.",
-      "website": "https://virtualo.eu",
+      "website": "https://www.empik.com/go",
       "company": "Virtualo(Empik Group)",
       "position": "Python Developer",
-      "startDate": "2021-04-01"
+      "startDate": "2021-04-01",
+      "endDate": "2022-04-01"
     },
     {
       "highlights": [
@@ -113,7 +127,7 @@
         "Developing SPA apps in Vue.js"
       ],
       "summary": "Working for one of biggest media houses in Poland.",
-      "website": "https://www.grupazpr.pl/",
+      "website": "https://www.grupazpr.pl",
       "company": "Grupa ZPR",
       "position": "Full Stack Developer",
       "startDate": "2020-01-01",
@@ -121,14 +135,14 @@
     },
     {
       "summary": "Working in web development projects with Python/Django/Flask, React stack.",
-      "website": "https://giap.pl/",
+      "website": "https://www.giap.pl",
       "company": "GIAP (Gospodarczy Instytut Analiz Przestrzennych)",
       "position": "Python Developer",
       "startDate": "2019-05-01",
       "endDate": "2019-12-01"
     },
     {
-      "summary": "Working in web projects (Python/Django, React), prototyping solutions – functional and visual, software verification - manual and automated testing, scripting(Python), creating websites for external and internal needs.",
+      "summary": "Working in web projects (Python/Django, React), prototyping solutions - functional and visual, software verification - manual and automated testing, scripting(Python), creating websites for external and internal needs.",
       "company": "GIAP",
       "position": "Software Tester",
       "startDate": "2019-01-01",
