@@ -102,6 +102,12 @@
   "work": [
     {
       "highlights": [
+        "Testing tools and creating custom projects using Cursor, Claude, Python(FastAPI, FastMCP), React, LMM integrations(LangChain, Pydantic AI) and embeddings(pgvector)"
+      ],
+      "startDate": "2025-10-01"
+    },
+    {
+      "highlights": [
         "Developing system to compute large amount of data(Python engine, FastAPI, React)",
         "Migrating older frameworks to React and FastAPI",
         "Optimizing engine calculation time and memory",
