@@ -27,7 +27,7 @@
     {
       "endDate": "2017-01-01",
       "startDate": "2014-01-01",
-      "area": "Urban Planning",
+      "area": "Urban Planning(GIS)",
       "studyType": "BSc",
       "institution": "Warsaw University of Life Sciences",
       "courses": [
@@ -47,35 +47,43 @@
   "skills": [
     {
       "keywords": [
-        "Javascript / Typescript",
-        "Vue.js",
-        "React",
-        "Jest"
-      ],
-      "name": "Frontend"
-    },
-    {
-      "keywords": [
         "Python",
         "TTD",
-        "Django / Django Rest Framework",
         "FastAPI",
         "Flask",
-        "SQL / PostgreSQL / MySQL"
+        "Django",
+        "Django Rest Framework",
+        "SQL",
+        "PostgreSQL",
+        "MySQL",
+        "pgvector",
+        "SQLAlchemy"
       ],
       "name": "Backend"
     },
     {
       "keywords": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Vue.js",
+        "Jest",
+        "Vite"
+      ],
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
         "microservices",
         "serverless",
-        "AWS",
         "GCP",
-        "Traefik",
+        "AWS",
         "bash",
         "Docker",
         "Docker Compose",
-        "GitLab CI"
+        "GitLab CI",
+        "Traefik",
+        "nginx"
       ],
       "name": "DevOps"
     },
@@ -85,9 +93,8 @@
         "QGIS",
         "ArcGIS",
         "Leaflet",
-        "OpenLayers",
         "Geoserver",
-        "Open Street Map"
+        "OSM"
       ],
       "name": "GIS"
     }
