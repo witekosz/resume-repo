@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Witold Oszkiel",
-    "label": "Full Stack Developer",
+    "label": "Software Engineer (Full Stack)",
     "image": "https://raw.githubusercontent.com/witekosz/resume_repo/master/assets/profile_photo.png",
-    "summary": "I am a full stack web developer who can build apps from the ground up. Besides technical I have many soft skills, therefore I have a wide view of daily challenges and problems.",
+    "summary": "Full-stack developer with 7+ years of experience building Python backends and React/Vue frontends — from GIS and spatial data to microservices on GCP and large-scale data systems at NatWest. Comfortable owning features end-to-end, mentoring teammates, and modernizing legacy stacks.",
     "email": "witekosz@gmail.com",
     "phone": "+48 575 997 497",
     "location": {
@@ -27,17 +27,15 @@
     {
       "endDate": "2017-01-01",
       "startDate": "2014-01-01",
-      "area": "Urban Planning(GIS)",
+      "area": "Urban Planning (GIS)",
       "studyType": "BSc",
-      "institution": "Warsaw University of Life Sciences",
-      "courses": [
-        "InfoShareAcademy - Django building web apps with spatial data sources"
-      ]
+      "institution": "Warsaw University of Life Sciences"
     },
     {
       "endDate": "2019-01-01",
       "startDate": "2018-01-01",
       "area": "Python Backend Developer",
+      "studyType": "Bootcamp",
       "institution": "Reaktor PWN",
       "courses": [
         "Technologies: HTML, CSS, JS, Python, Django, Selenium, REST API, MySQL"
@@ -48,11 +46,12 @@
     {
       "keywords": [
         "Python",
-        "TTD",
+        "TDD",
         "FastAPI",
         "Flask",
         "Django",
         "Django Rest Framework",
+        "REST API",
         "SQL",
         "PostgreSQL",
         "MySQL",
@@ -93,7 +92,7 @@
         "QGIS",
         "ArcGIS",
         "Leaflet",
-        "Geoserver",
+        "GeoServer",
         "OSM"
       ],
       "name": "GIS"
@@ -101,17 +100,20 @@
   ],
   "work": [
     {
+      "company": "Confidential (NDA)",
+      "position": "Software Engineer",
+      "summary": "Contract engagement for an international client. Client and project details are not disclosed.",
       "highlights": [
-        "Testing tools and creating custom projects using Cursor, Claude, Python(FastAPI, FastMCP), React, LMM integrations(LangChain, Pydantic AI) and embeddings(pgvector)"
+        "Python/Django upgrade and modernization for enterprise platform"
       ],
-      "startDate": "2025-10-01"
+      "startDate": "2026-03-01"
     },
     {
       "highlights": [
-        "Developing system to compute large amount of data(Python engine, FastAPI, React)",
-        "Migrating older frameworks to React and FastAPI",
-        "Optimizing engine calculation time and memory",
-        "Onboarding new team members"
+        "Developing system to compute large volumes of data (Python engine, FastAPI, React)",
+        "Migrating legacy frameworks to React and FastAPI",
+        "Optimizing engine calculation time and memory usage",
+        "Onboarding and mentoring new team members"
       ],
       "summary": "Software engineer at NatWest Group, one of the biggest UK banks.",
       "website": "https://www.natwestgroup.com",
@@ -122,24 +124,24 @@
     },
     {
       "highlights": [
-        "Developing microservices in Python(Flask) on GCP(Storage, Datastore, App Engine, Run, Tasks)",
-        "Maitianing backend for heavy load apps eg. Empik Go, one of biggest polish sreaming service",
+        "Developing microservices in Python (Flask) on GCP (Storage, Datastore, App Engine, Run, Tasks)",
+        "Maintaining backend for high-traffic apps (e.g. Empik Go, one of Poland's largest streaming services)",
         "Migrating legacy Python 2 apps to Python 3",
         "Optimizing cloud costs"
       ],
-      "summary": "Working for biggest digital content(audiobooks and ebooks) distibutor in Poland.",
+      "summary": "Working for Poland's largest digital content (audiobooks and ebooks) distributor.",
       "website": "https://www.empik.com/go",
-      "company": "Virtualo(Empik Group)",
+      "company": "Virtualo (Empik Group)",
       "position": "Python Developer",
       "startDate": "2021-04-01",
       "endDate": "2022-04-01"
     },
     {
       "highlights": [
-        "Developing microservices in Python(Flask, Django)",
+        "Developing microservices in Python (Flask, Django)",
         "Developing SPA apps in Vue.js"
       ],
-      "summary": "Working for one of biggest media houses in Poland.",
+      "summary": "Working for one of Poland's largest media houses.",
       "website": "https://www.grupazpr.pl",
       "company": "Grupa ZPR",
       "position": "Full Stack Developer",
@@ -155,14 +157,14 @@
       "endDate": "2019-12-01"
     },
     {
-      "summary": "Working in web projects (Python/Django, React), prototyping solutions - functional and visual, software verification - manual and automated testing, scripting(Python), creating websites for external and internal needs.",
+      "summary": "Working in web projects (Python/Django, React), prototyping solutions — functional and visual, software verification — manual and automated testing, scripting (Python), creating websites for external and internal needs.",
       "company": "GIAP",
       "position": "Software Tester",
       "startDate": "2019-01-01",
       "endDate": "2019-04-01"
     },
     {
-      "summary": "Implementations and training on IT projects, managing databases - data import/export.",
+      "summary": "Implementations and training on IT projects, managing databases — data import/export.",
       "company": "GIAP",
       "position": "Assistant IT Project Manager / GIS Expert",
       "startDate": "2018-02-01",
